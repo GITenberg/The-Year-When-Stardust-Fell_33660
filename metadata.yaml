@@ -1,0 +1,32 @@
+_repo: The-Year-When-Stardust-Fell_33660
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33660-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jones, Raymond F.
+    alias: Jones, Raymond F. (Raymond Fisher)
+    birthdate: 1915
+    deathdate: 1994
+    gutenberg_agent_id: '25386'
+    url: http://www.gutenberg.org/2009/agents/25386
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_F._Jones
+description: The people of Mayfield deal with the consequences of a world-wide natural
+  disaster that stops all machinery, light, and power.
+gutenberg_issued: '2010-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+- !lcsh 'Survival -- Fiction'
+title: The Year When Stardust Fell
+url: http://www.gutenberg.org/ebooks/33660
